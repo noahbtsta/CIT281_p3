@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Project 3
 
-You can use the [editor on GitHub](https://github.com/noahbtsta/CIT281_p3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+In this project I gained more practice breaking up a project into managable parts. I also got more 
+insight about executing non-web server Node.js Javascript code. Learned about fastify and using
+a GET route to return a certain value.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills Used in Project
+- Initialize folder as a git repo
+- Created code module with the following functions 
+-
+   - validDenomination(coin)
+   - valueFromCoinObject(obj)
+   - valueFromArray(arr)
+   - coinCount(...coinage)
+  
+ - Test the following code using console.log
+ - Created two parameters for the specified coin: denom, count
+ - Created html file that can be displayed in browser when navigating to the IP and port for the project web server
+ - 
+    
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noahbtsta/CIT281_p3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [Link to Javascript Code](code/)
